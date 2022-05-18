@@ -1,0 +1,29 @@
+    @font-face {
+        font-family: 'Cattie Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: url('./CattieRegular.ttf');
+    }
+    @font-face {
+        font-family: 'Meows Nepil Illustratio';
+        src: url('./MeowsNepilIllustratioRegular.ttf');
+    }
+ 
+
+    #main {
+        font-size: 4.5rem;
+        font-family: 'Cattie Regular';
+        font-weight: 400;
+    }
+    #illustrate {
+        font-family: 'Meows Nepil Illustratio';
+        ;
+    }
+body {
+    overflow: hidden;
+    /* Hide scrollbars */
+    background: url(./background.jpg) no-repeat;
+    background-size: cover; 
+    background-position: center center;
+    background-attachment: fixed;
+}
