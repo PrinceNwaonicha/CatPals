@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CatPals/static/css/main.cfcc61b3.css",
-    "main.js": "/CatPals/static/js/main.a1fb7ffe.js",
+    "main.js": "/CatPals/static/js/main.8bda1b02.js",
     "static/media/background.jpg": "/CatPals/static/media/background.9cab091479db8324148d.jpg",
     "static/media/MeowsNepilIllustratioRegular.ttf": "/CatPals/static/media/MeowsNepilIllustratioRegular.190efef0aed1d6b71c4e.ttf",
     "static/media/CattieRegular.ttf": "/CatPals/static/media/CattieRegular.e5e982a6b4995fe7312b.ttf",
     "index.html": "/CatPals/index.html",
     "main.cfcc61b3.css.map": "/CatPals/static/css/main.cfcc61b3.css.map",
-    "main.a1fb7ffe.js.map": "/CatPals/static/js/main.a1fb7ffe.js.map"
+    "main.8bda1b02.js.map": "/CatPals/static/js/main.8bda1b02.js.map"
   },
   "entrypoints": [
     "static/css/main.cfcc61b3.css",
-    "static/js/main.a1fb7ffe.js"
+    "static/js/main.8bda1b02.js"
   ]
 }
